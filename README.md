@@ -164,7 +164,7 @@ If you want to search for very specific TV shows, you can take a look at the too
 Youku, iQIYI and MangoTV are kind of Netflix style. In general there is always one or two great TV shows on them that are exclusive and makes you want to subscribe. The Subscription is very very cheap as far as I remember. However the selection of "good" TV shows is quite limited. It can be nice to subscribe just some months to watch them.
 
 ### [Bilibili (哔哩哔哩)](https://www.bilibili.com/)
-The equivalent of youtube in China. However, in contrast to Youtube, Netflix, ..., the platform does not have built-in subtitles. It is, therefore, less convenient to learn Chinese with this platform.
+The equivalent of youtube in China. 
 
 ### [Youku (优酷)](https://www.youku.com/)
 
